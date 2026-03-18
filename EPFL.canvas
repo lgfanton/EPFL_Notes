@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"eb4b7635c6670cf8","type":"text","text":"EPFL\n","x":-720,"y":-760,"width":2000,"height":1440,"color":"1"},
+		{"id":"9050d332bd353f77","type":"text","text":"Maths\n","x":-640,"y":-660,"width":700,"height":610,"color":"3"},
+		{"id":"c41475b6204b3df8","type":"file","file":"EPFL/MaN/AnalyseB/AnalyseB_HUB/AnalyseB.md","x":-400,"y":-580,"width":225,"height":160,"color":"#00ff2a"},
+		{"id":"34417f75ed073102","type":"file","file":"EPFL/MaN/SCM/SCM_HUB/SCM.md","x":-175,"y":-580,"width":200,"height":160,"color":"#00ff2a"},
+		{"id":"d9eac4accf0f308e","type":"file","file":"EPFL/MaN/AnalyseA/Course_HUB/AnalyseA.md","x":-600,"y":-580,"width":200,"height":160,"color":"#00ff2a"},
+		{"id":"ed6f51c19fd4b2e0","type":"text","text":"Physique","x":100,"y":-660,"width":700,"height":610,"color":"6"},
+		{"id":"4b841f71ff2edc93","type":"text","text":"CS","x":-640,"y":0,"width":700,"height":610,"color":"4"},
+		{"id":"c122cf374018630a","x":840,"y":-660,"width":330,"height":200,"type":"text","text":"Color Codes :\n\nMaN : 0 255 42 \nBa1:  ...\nBa2: ...\nBa3: ..."},
+		{"id":"c64311fdae3e9288","x":100,"y":0,"width":700,"height":610,"color":"5","type":"text","text":"SHS"}
+	],
+	"edges":[]
+}
