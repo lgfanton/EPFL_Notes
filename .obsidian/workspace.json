@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "7e2d84dffa822967",
+    "type": "split",
+    "children": [
+      {
+        "id": "2814166828a9ee27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57f2b98aad1e46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.5 Accélération"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94ad170535527dde",
+    "type": "split",
+    "children": [
+      {
+        "id": "01ee1ab82eea514d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06939bf85bd8bb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8535dda144d3f030",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1d6f1beadddbf8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "206e1b1affce2d77",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc8db9d57f185d24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5604266edad3bc51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.5 Accélération"
+            }
+          },
+          {
+            "id": "65a50dc86ab1a94c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2.5 Accélération"
+            }
+          },
+          {
+            "id": "c4205a2472d603d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f43bf956d81eff8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c61d2563ab10e820",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2.5 Accélération"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b57f2b98aad1e46f",
+  "lastOpenFiles": [
+    "MaN/PhysiqueMaN/PhysiqueMaN_HUB/PhysiqueMaN.md",
+    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.9 Diagonalisation.md",
+    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.8 Valeurs et vecteurs propres.md",
+    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.6 Réflexions.md",
+    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.2 Noyau.md",
+    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.5 Rotations.md",
+    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.3 Image et rang.md",
+    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.1 Définitions.md",
+    "MaN/PhysiqueMaN/3. Dynamique/3.9 Deux intermèdes.md",
+    "MaN/PhysiqueMaN/3. Dynamique/3.7 Pression.md",
+    "MaN/PhysiqueMaN/3. Dynamique/3.6 Troisième loi de Newton.md",
+    "MaN/PhysiqueMaN/3. Dynamique/3.5 Centre de masse.md",
+    "MaN/PhysiqueMaN/3. Dynamique/3.4 Quantité de mouvement.md",
+    "MaN/PhysiqueMaN/3. Dynamique/3.3 Forces particulières.md",
+    "MaN/PhysiqueMaN/3. Dynamique/3.2 Deuxième loi de Newton.md",
+    "MaN/PhysiqueMaN/3. Dynamique/3.1 Première loi de Newton.md",
+    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
+    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.4 Vitesse.md",
+    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.3 Vecteur position et temps.md",
+    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.2 Référentiel, origine, repère fixe.md",
+    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.1 Matière et espace.md",
+    "MaN/PhysiqueMaN/1. Introduction/1.2 Loi physique et rôle des mathématiques.md",
+    "MaN/PhysiqueMaN/1. Introduction/1.1 But de la physique.md",
+    "EPFL.canvas",
+    "MaN/PhysiqueMaN/PhysiqueMaN_HUB/9. Magnétostatique.md",
+    "MaN/PhysiqueMaN/PhysiqueMaN_HUB/8. Circuits à courant continu.md",
+    "MaN/PhysiqueMaN/PhysiqueMaN_HUB/7. Électrostatique.md",
+    "MaN/PhysiqueMaN/PhysiqueMaN_HUB",
+    "MaN/PhysiqueMaN/9. Magnétostatique",
+    "MaN/PhysiqueMaN/8. Circuits à courant continu",
+    "MaN/PhysiqueMaN/7. Électrostatique",
+    "MaN/PhysiqueMaN/6. Rotation en deux dimensions",
+    "MaN/PhysiqueMaN/5. Oscillateur harmonique",
+    "MaN/PhysiqueMaN/4. Énergie",
+    "MaN/PhysiqueMaN/3. Dynamique",
+    "MaN/PhysiqueMaN/2. Mouvement dans le plan",
+    "MaN/PhysiqueMaN/1. Introduction"
+  ]
+}
