@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
+                "file": "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.3 Changement de base (R2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 Accélération"
+              "title": "2.3 Changement de base (R2)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
+                "file": "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.6 Changement de base (R3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.5 Accélération"
+              "title": "Backlinks for 2.6 Changement de base (R3)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
+                "file": "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.6 Changement de base (R3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.5 Accélération"
+              "title": "Outgoing links from 2.6 Changement de base (R3)"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
+                "file": "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.6 Changement de base (R3).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.5 Accélération"
+              "title": "Outline of 2.6 Changement de base (R3)"
             }
           }
         ]
@@ -185,42 +185,42 @@
   },
   "active": "b57f2b98aad1e46f",
   "lastOpenFiles": [
-    "MaN/PhysiqueMaN/PhysiqueMaN_HUB/PhysiqueMaN.md",
-    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.9 Diagonalisation.md",
-    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.8 Valeurs et vecteurs propres.md",
-    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.6 Réflexions.md",
-    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.2 Noyau.md",
-    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.5 Rotations.md",
-    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.3 Image et rang.md",
-    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires/3.1 Définitions.md",
-    "MaN/PhysiqueMaN/3. Dynamique/3.9 Deux intermèdes.md",
-    "MaN/PhysiqueMaN/3. Dynamique/3.7 Pression.md",
-    "MaN/PhysiqueMaN/3. Dynamique/3.6 Troisième loi de Newton.md",
-    "MaN/PhysiqueMaN/3. Dynamique/3.5 Centre de masse.md",
-    "MaN/PhysiqueMaN/3. Dynamique/3.4 Quantité de mouvement.md",
-    "MaN/PhysiqueMaN/3. Dynamique/3.3 Forces particulières.md",
-    "MaN/PhysiqueMaN/3. Dynamique/3.2 Deuxième loi de Newton.md",
-    "MaN/PhysiqueMaN/3. Dynamique/3.1 Première loi de Newton.md",
-    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.5 Accélération.md",
-    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.4 Vitesse.md",
-    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.3 Vecteur position et temps.md",
-    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.2 Référentiel, origine, repère fixe.md",
-    "MaN/PhysiqueMaN/2. Mouvement dans le plan/2.1 Matière et espace.md",
-    "MaN/PhysiqueMaN/1. Introduction/1.2 Loi physique et rôle des mathématiques.md",
-    "MaN/PhysiqueMaN/1. Introduction/1.1 But de la physique.md",
-    "EPFL.canvas",
-    "MaN/PhysiqueMaN/PhysiqueMaN_HUB/9. Magnétostatique.md",
-    "MaN/PhysiqueMaN/PhysiqueMaN_HUB/8. Circuits à courant continu.md",
-    "MaN/PhysiqueMaN/PhysiqueMaN_HUB/7. Électrostatique.md",
-    "MaN/PhysiqueMaN/PhysiqueMaN_HUB",
-    "MaN/PhysiqueMaN/9. Magnétostatique",
-    "MaN/PhysiqueMaN/8. Circuits à courant continu",
-    "MaN/PhysiqueMaN/7. Électrostatique",
-    "MaN/PhysiqueMaN/6. Rotation en deux dimensions",
-    "MaN/PhysiqueMaN/5. Oscillateur harmonique",
-    "MaN/PhysiqueMaN/4. Énergie",
-    "MaN/PhysiqueMaN/3. Dynamique",
-    "MaN/PhysiqueMaN/2. Mouvement dans le plan",
-    "MaN/PhysiqueMaN/1. Introduction"
+    "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.6 Changement de base (R3).md",
+    "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.5 Plans vectoriels de R3.md",
+    "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.4 Droites vectorielles de R3.md",
+    "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.3 Changement de base (R2).md",
+    "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.2 Bases et coordonnées (R2).md",
+    "MaN/AlgèbreLinéaireMaN/1. Calcul matriciel/1.11 Rang (résumé).md",
+    "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3/2.1 Structure vectorielle.md",
+    "MaN/AlgèbreLinéaireMaN/1. Calcul matriciel/1.7 Rang (2x3).md",
+    "MaN/AlgèbreLinéaireMaN/1. Calcul matriciel/1.6 Inversion (2x2).md",
+    "MaN/AlgèbreLinéaireMaN/1. Calcul matriciel/1.5 Déterminant (2x2).md",
+    "MaN/AlgèbreLinéaireMaN/1. Calcul matriciel/1.4 Opérations élémentaires.md",
+    "MaN/AlgèbreLinéaireMaN/1. Calcul matriciel/1.3 Règles de calcul.md",
+    "MaN/AlgèbreLinéaireMaN/1. Calcul matriciel/1.2 Produit matriciel.md",
+    "Admin/EPFL.canvas",
+    "Untitled.base",
+    "MaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN.md",
+    "MaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN/6. Réduction 2x2.md",
+    "MaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN/5. Représentations matricielles.md",
+    "MaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN/4. Transformations géométriques.md",
+    "MaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN/3. Applications linéaires.md",
+    "MaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3.md",
+    "MaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN/1. Calcul matriciel.md",
+    "MaN/AlgèbreLinéaireMaN/6. Réduction 2x2/6.8 Application aux suites récurrentes.md",
+    "MaN/AlgèbreLinéaireMaN/6. Réduction 2x2/6.7 Preuves (Cayley-Hamilton).md",
+    "MaN/AlgèbreLinéaireMaN/6. Réduction 2x2/6.6 Forme réduite (cas Δ < 0).md",
+    "MaN/AlgèbreLinéaireMaN/6. Réduction 2x2/6.5 Forme réduite (cas Δ = 0).md",
+    "MaN/AlgèbreLinéaireMaN/6. Réduction 2x2/6.4 Diagonalisation (cas Δ > 0).md",
+    "MaN/AlgèbreLinéaireMaN/6. Réduction 2x2/6.3 Vecteur propre et base propre.md",
+    "MaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN",
+    "MaN/AlgèbreLinéaireMaN/6. Réduction 2x2",
+    "MaN/AlgèbreLinéaireMaN/5. Représentations matricielles",
+    "MaN/AlgèbreLinéaireMaN/4. Transformations géométriques",
+    "MaN/AlgèbreLinéaireMaN/3. Applications linéaires",
+    "MaN/AlgèbreLinéaireMaN/2. Espaces vectoriels R2 et R3",
+    "MaN/AlgèbreLinéaireMaN/1. Calcul matriciel",
+    "MaN/AlgèbreLinéaireMaN",
+    "Admin/To Do.base"
   ]
 }

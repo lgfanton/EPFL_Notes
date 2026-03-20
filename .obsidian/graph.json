@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:MaN/AnalyseA  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:MaN/AnalyseB  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:MaN/SCM  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:MaN/AlgèbreLinéaireMaN  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:MaN/PhysiqueMaN  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.43091145833333,
+  "lineSizeMultiplier": 1.51108940972222,
+  "collapse-forces": false,
+  "centerStrength": 0.110763888888889,
+  "repelStrength": 9.99045138888889,
+  "linkStrength": 0.525434027777778,
+  "linkDistance": 150,
+  "scale": 0.19753086419753615,
+  "close": true
+}

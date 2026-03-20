@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"eb4b7635c6670cf8","type":"text","text":"EPFL\n","x":-960,"y":120,"width":2000,"height":1440,"color":"1"},
+		{"id":"4b841f71ff2edc93","type":"text","text":"CS","x":-860,"y":840,"width":700,"height":610,"color":"4"},
+		{"id":"9050d332bd353f77","type":"text","text":"Maths\n","x":-860,"y":230,"width":700,"height":610,"color":"3"},
+		{"id":"c64311fdae3e9288","type":"text","text":"SHS","x":-160,"y":840,"width":700,"height":610,"color":"5"},
+		{"id":"ed6f51c19fd4b2e0","type":"text","text":"Physique","x":-160,"y":230,"width":700,"height":610,"color":"6"},
+		{"id":"d9eac4accf0f308e","type":"file","file":"MaN/AnalyseA/Course_HUB/AnalyseA.md","x":-822,"y":320,"width":200,"height":160,"color":"#00ff2a"},
+		{"id":"c41475b6204b3df8","type":"file","file":"MaN/AnalyseB/AnalyseB_HUB/AnalyseB.md","x":-622,"y":320,"width":225,"height":160,"color":"#00ff2a"},
+		{"id":"34417f75ed073102","type":"file","file":"MaN/SCM/Course_HUB/SCM.md","x":-397,"y":320,"width":200,"height":160,"color":"#00ff2a"},
+		{"id":"e722abcd2d897c27","type":"file","file":"MaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN/AlgèbreLinéaireMaN.md","x":-624,"y":480,"width":225,"height":160,"color":"#00ff2a"},
+		{"id":"443db4245d669bb2","type":"file","file":"MaN/PhysiqueMaN/PhysiqueMaN_HUB/PhysiqueMaN.md","x":-120,"y":320,"width":200,"height":160,"color":"#00ff2a"},
+		{"id":"c122cf374018630a","type":"text","text":"Color Codes :\n\nMaN : 0 255 42 \nBa1:  ...\nBa2: ...\nBa3: ...","x":640,"y":230,"width":330,"height":200}
+	],
+	"edges":[]
+}
